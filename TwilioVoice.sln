@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwilioVoice", "TwilioVoice\TwilioVoice.csproj", "{ECF3780A-C5DE-4C0D-B781-FDF40C23A1DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF3780A-C5DE-4C0D-B781-FDF40C23A1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF3780A-C5DE-4C0D-B781-FDF40C23A1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF3780A-C5DE-4C0D-B781-FDF40C23A1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF3780A-C5DE-4C0D-B781-FDF40C23A1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D91B678-C463-4D0D-810D-1D246B92019C}
+	EndGlobalSection
+EndGlobal

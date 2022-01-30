@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\bin\Debug\TwilioVoice.exe.config
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\bin\Debug\TwilioVoice.exe
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\bin\Debug\TwilioVoice.pdb
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\bin\Debug\Twilio.dll
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\bin\Debug\Twilio.xml
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\obj\Debug\TwilioVoice.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\obj\Debug\TwilioVoice.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\obj\Debug\TwilioVoice.csproj.CopyComplete
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\obj\Debug\TwilioVoice.exe
+C:\Users\USER\source\repos\TwilioVoice\TwilioVoice\obj\Debug\TwilioVoice.pdb

@@ -18,8 +18,8 @@ namespace TwilioVoice
             const string authToken = "your_auth_token";
             TwilioClient.Init(accountSid, authToken);
 
-            var to = new PhoneNumber("+14155551212");
-            var from = new PhoneNumber("+15017122661");
+            var to = new PhoneNumber("9713449532");
+            var from = new PhoneNumber("8045342971");
             var call = CallResource.Create(to, from,
                 url: new Uri("http://demo.twilio.com/docs/voice.xml"));
 
